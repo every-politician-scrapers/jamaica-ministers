@@ -1,0 +1,55 @@
+{
+  "title": "Everald Warmington",
+  "pageID": 38572828,
+  "categories": [
+    "1952 births",
+    "Living people",
+    "Jamaica Labour Party politicians",
+    "Former United States citizens"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Clifford Everald Errol Warmington (born 1952) is a Jamaican politician with the Jamaica Labour Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Clifford Everald Errol Warmington"
+                ]
+              }
+            },
+            {
+              "text": "He has represented the South West Saint Catherine constituency in the Parliament of Jamaica since 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Jamaica"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.jamaicaelections.com/general/2011/info/constituency.php?constituencyid=54",
+          "title": "Constituency: St. Catherine South Western",
+          "work": "Jamaica Gleaner",
+          "accessdate": "2013-02-19",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "title": "Rocky Ricardo Meade",
+  "pageID": 62272898,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Jamaican military officers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lieutenant General Rocky Ricardo Meade is a Jamaican military leader who is the third and current Chief of Defence Staff (CDS) of the Jamaica Defence Force (JDF), serving since December 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lieutenant General"
+                },
+                {
+                  "text": "Chief of Defence Staff",
+                  "type": "internal",
+                  "page": "Chief of Defence Staff (Jamaica)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jamaica Defence Force"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rocky Ricardo Meade"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Wolmer's School",
+            "UWI",
+            "USACSC",
+            "University of Amsterdam"
+          ],
+          "template": "bulletedlist"
+        },
+        {
+          "list": [
+            "Jamaica"
+          ],
+          "template": "army"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Lieutenant General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              }
+            ]
+          },
+          "name": {
+            "text": "Rocky Meade"
+          },
+          "honorific-suffix": {
+            "text": "CD, ADC, JP",
+            "links": [
+              {
+                "text": "CD",
+                "type": "internal",
+                "page": "Order of Distinction"
+              },
+              {
+                "text": "ADC",
+                "type": "internal",
+                "page": "Aide de Camp"
+              },
+              {
+                "text": "JP",
+                "type": "internal",
+                "page": "Justice of the Peace"
+              }
+            ]
+          },
+          "office": {
+            "text": "Chief of Defence Staff",
+            "links": [
+              {
+                "text": "Chief of Defence Staff",
+                "type": "internal",
+                "page": "Chief of Defence Staff (Jamaica)"
+              }
+            ]
+          },
+          "image": {
+            "text": "General Meade Hero's Day 2019.jpg"
+          },
+          "caption": {
+            "text": "Meade during the Hero's Day celebrations in 2019."
+          },
+          "1blankname": {
+            "text": "Governor General"
+          },
+          "1namedata": {
+            "text": "Sir Patrick Allen",
+            "links": [
+              {
+                "text": "Patrick Allen",
+                "type": "internal",
+                "page": "Patrick Allen (politician)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Andrew Holness",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Holness"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 December 2016"
+          },
+          "predecessor": {
+            "text": "Major General Antony Bertram Anderson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antony Bertram Anderson"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Jamaica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇯🇲 Jamaica",
+            "links": [
+              {
+                "text": "Jamaica",
+                "type": "internal",
+                "page": "jamaica"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1984–present"
+          },
+          "rank": {
+            "text": "Lieutenant General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Chief of Defence Staff",
+            "links": [
+              {
+                "text": "Chief of Defence Staff",
+                "type": "internal",
+                "page": "Chief of Defence Staff (Jamaica)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

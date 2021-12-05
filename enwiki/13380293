@@ -1,0 +1,164 @@
+{
+  "title": "Horace Chang",
+  "pageID": 13380293,
+  "categories": [
+    "Living people",
+    "1952 births",
+    "Members of the House of Representatives of Jamaica",
+    "Government ministers of Jamaica",
+    "Jamaica Labour Party politicians",
+    "Jamaican people of Chinese descent",
+    "Cornwall College, Jamaica alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Horace Anthony Chang (born 10 November 1952) is a Jamaican doctor and politician who is both the current Deputy Prime Minister of Jamaica and the Minister of National Security.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jamaica"
+                },
+                {
+                  "text": "Minister of National Security",
+                  "type": "internal",
+                  "page": "Ministry of National Security (Jamaica)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Horace Anthony Chang"
+                ]
+              }
+            },
+            {
+              "text": "He was formerly the Minister of Water, Environment and Housing from September 2007 to December 2011."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2012",
+          "template": "use jamaican english"
+        },
+        {
+          "df": "yes",
+          "year": "1952",
+          "month": "11",
+          "day": "10",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable Doctor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              },
+              {
+                "text": "Doctor",
+                "type": "internal",
+                "page": "Doctorate"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "name": {
+            "text": "Horace Anthony Chang"
+          },
+          "parliament": {
+            "text": "Jamaica"
+          },
+          "term_start": {
+            "text": "September 2020"
+          },
+          "office2": {
+            "text": "Minister of National Security of Jamaica",
+            "links": [
+              {
+                "text": "Minister of National Security of Jamaica",
+                "type": "internal",
+                "page": "Ministry of National Security (Jamaica)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "March 2018"
+          },
+          "birth_date": {
+            "text": "November 10, 1952"
+          },
+          "birth_place": {
+            "text": "Westmoreland Parish, Jamaica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Westmoreland Parish"
+              },
+              {
+                "type": "internal",
+                "page": "Jamaica"
+              }
+            ]
+          },
+          "party": {
+            "text": "JLP",
+            "links": [
+              {
+                "text": "JLP",
+                "type": "internal",
+                "page": "Jamaican Labor Party"
+              }
+            ]
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Jamaica"
+          },
+          "term_start3": {
+            "text": "2002",
+            "number": 2002
+          },
+          "office3": {
+            "text": "Member of the Jamaica Parliament\nfor Saint James North Western",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Parliament"
+              },
+              {
+                "type": "internal",
+                "page": "Saint James North Western"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "title": "Marisa Dalrymple-Philibert",
+  "pageID": 65349794,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "People from Saint Ann Parish",
+    "Jamaica Labour Party politicians",
+    "Members of the House of Representatives of Jamaica",
+    "21st-century Jamaican women politicians",
+    "21st-century Jamaican politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marisa Colleen Dalrymple-Philibert is a Jamaican attorney-at-law and politician, representing the Jamaica Labour Party (JLP).",
+              "links": [
+                {
+                  "text": "attorney-at-law",
+                  "type": "internal",
+                  "page": "attorney-at-law"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marisa Colleen Dalrymple-Philibert"
+                ]
+              }
+            },
+            {
+              "text": "She is the 15th and current Speaker of the House of Representatives."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "September 2020",
+          "template": "use jamaican english"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Marisa Colleen Dalrymple-Philibert"
+          },
+          "nationality": {
+            "text": "Jamaica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "CD",
+            "links": [
+              {
+                "text": "CD",
+                "type": "internal",
+                "page": "Order of Distinction"
+              }
+            ]
+          },
+          "office": {
+            "text": "Speaker of the House of Representatives"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor_general": {
+            "text": "Sir Patrick Allen",
+            "links": [
+              {
+                "text": "Sir Patrick Allen",
+                "type": "internal",
+                "page": "Patrick Allen (governor-general)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Andrew Holness",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Holness"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "September 15, 2020"
+          },
+          "predecessor": {
+            "text": "Pearnel Charles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pearnel Charles"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor_general1": {
+            "text": "Sir Patrick Allen",
+            "links": [
+              {
+                "text": "Sir Patrick Allen",
+                "type": "internal",
+                "page": "Patrick Allen (governor-general)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Andrew Holness",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Holness"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Speaker of the House of Representatives"
+          },
+          "term_start1": {
+            "text": "July 13, 2011"
+          },
+          "term_end1": {
+            "text": "December 12, 2011"
+          },
+          "predecessor1": {
+            "text": "Delroy Chuck",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Delroy Chuck"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Michael Peart",
+            "links": [
+              {
+                "text": "Michael Peart",
+                "type": "internal",
+                "page": "Michael Peart (politician)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Marisa Colleen Dalyrimple"
+          },
+          "birth_place": {
+            "text": "St. Ann, Jamaica",
+            "links": [
+              {
+                "text": "St. Ann",
+                "type": "internal",
+                "page": "Saint Ann Parish"
+              },
+              {
+                "type": "internal",
+                "page": "Jamaica"
+              }
+            ]
+          },
+          "party": {
+            "text": "Jamaica Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Labour Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Sherbert Philibert"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "alma_mater": {
+            "text": "University of the West Indies",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the West Indies"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://jamaica-gleaner.com/article/lead-stories/20200914/marisa-dalrymple-philibert-be-new-speaker-house",
+          "title": "Marisa Dalrymple-Philibert to be new Speaker of the House",
+          "publisher": "Jamaica Gleaner",
+          "date": "September 14, 2020",
+          "access-date": "2020-09-18",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

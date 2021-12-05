@@ -1,0 +1,135 @@
+{
+  "title": "Olivia Grange",
+  "pageID": 22506249,
+  "categories": [
+    "Living people",
+    "Government ministers of Jamaica",
+    "Members of the House of Representatives of Jamaica",
+    "Women government ministers of Jamaica",
+    "21st-century women politicians",
+    "1946 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Olivia Grange (born 27 April 1946) is a Jamaican politician.",
+              "links": [
+                {
+                  "text": "Jamaican",
+                  "type": "internal",
+                  "page": "Jamaica"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Olivia Grange"
+                ]
+              }
+            },
+            {
+              "text": "She has served as Member of Parliament for Saint Catherine Central since 1997 and as Jamaica's Minister of Sports, Youth and Culture for the duration of the Jamaica Labour Party government from 2007 to 2011 and again since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                },
+                {
+                  "text": "2007",
+                  "type": "internal",
+                  "page": "2007 Jamaican general election"
+                },
+                {
+                  "text": "2011",
+                  "type": "internal",
+                  "page": "2011 Jamaican general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2012",
+          "template": "use jamaican english"
+        },
+        {
+          "df": "yes",
+          "year": "1946",
+          "month": "04",
+          "day": "27",
+          "template": "birth date and age"
+        },
+        {
+          "country": "JAM",
+          "_list": "CD",
+          "template": "post nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "name": {
+            "text": "Olivia Grange"
+          },
+          "constituency_mp": {
+            "text": "Saint Catherine Central"
+          },
+          "parliament": {
+            "text": "Jamaica"
+          },
+          "birth_date": {
+            "text": "April 27, 1946"
+          },
+          "birth_place": {
+            "text": "Luke Lane, West Kingston, Jamaica"
+          },
+          "party": {
+            "text": "JLP",
+            "links": [
+              {
+                "text": "JLP",
+                "type": "internal",
+                "page": "Jamaican Labor Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "1 daughter"
+          }
+        }
+      ]
+    }
+  ]
+}
