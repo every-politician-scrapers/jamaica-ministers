@@ -7,17 +7,31 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('h4 strong').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      return role if ['Prime Minister of Jamaica', 'Minister without Portfolio'].include? role
+      return ministry.sub('Ministry', 'Minister') if role == 'Minister'
+      return "#{role} at the #{ministry}" if role == 'Minister of State'
+
+      raise "Unknown role: #{role} for #{name}"
+    end
+
+    private
+
+    def ministry
+      noko.css('p').text.tidy
+    end
+
+    def role
+      noko.css('h4').last.text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.cabinet-minister-profile-details')
     end
   end
 end
