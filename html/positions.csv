@@ -1,5 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q26869648,monarch of Jamaica,Q766,Q766,,,,,,,
+Q1472951,Governor-General of Jamaica,Q766,Q766,,,1962-08-06,,Q28845720,,Governor-General of Jamaica
+Q1430943,Prime Minister of Jamaica,Q766,Q766,Q41513836,,1962-08-06,,Q84304666,,Prime Minister of Jamaica
 Q41513836,Deputy Prime Minister of Jamaica,Q766,Q766,,,,,,,
 Q109928794,Minister of Agriculture and Fisheries of Jamaica,,Q766,,,,,,,
 Q109928831,"Minister of Culture, Gender, Entertainment and Sport",Q766,Q766,,,,,,,
@@ -12,6 +14,7 @@ Q109928764,Minister of Justice,,Q766,,,,,,,
 Q109928844,Minister of Labour & Social Security,,Q766,,,,,,,
 Q109928799,Minister of Local Government and Rural Development,Q766,Q766,,,,,,,
 Q109928734,Minister of Health and Wellness,Q766,Q766,,,,,,,
+Q109928706,Minister of National Security,,Q766,,,,,,,
 Q109928779,"Minister of Science, Energy and Technology",Q766,Q766,,,,,,,
 Q109928837,Minister of Tourism,Q766,Q766,,,,,,,
 Q109928809,Minister of Transport and Works,,Q766,,,,,,,
