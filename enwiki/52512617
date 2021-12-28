@@ -50,7 +50,15 @@
               ]
             },
             {
-              "text": "Since 2009, Johnson Smith is also a member of the [[Parliament_of_Jamaica#Senate|Senate] and since 2016 has been the Leader of Government Business in the Senate]."
+              "text": "Since 2009, Johnson Smith is also a member of the Senate and since 2016 has been the Leader of Government Business in the Senate.",
+              "links": [
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Parliament of Jamaica",
+                  "anchor": "Senate"
+                }
+              ]
             }
           ]
         }
