@@ -138,45 +138,6 @@
           "date": "May 2021",
           "template": "cn"
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.jis.gov.jm/Cabinet_Ministers_and_Ministries.pdf",
-          "title": "Ministers and Ministries",
-          "date": "November 2009",
-          "publisher": "Jamaica Information Service",
-          "accessdate": "25 January 2010",
-          "archive-url": "https://web.archive.org/web/20100215135214/http://www.jis.gov.jm/Cabinet_Ministers_and_Ministries.pdf",
-          "archive-date": "15 February 2010",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.jamaicaelections.com/general/2007/results/",
-          "title": "Jamaica Election 2007 Results - Provided by Jamaica Elections",
-          "date": "September 2007",
-          "publisher": "Jamaica Gleaner",
-          "accessdate": "25 April 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://jamaica-elections.com/general/2011/results/",
-          "title": "Jamaica Election 2011 Results - Provided by Jamaica Elections",
-          "date": "December 2011",
-          "publisher": "Jamaica Gleaner",
-          "accessdate": "25 April 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://jamaica-gleaner.com/latest/article.php?id=34276",
-          "title": "UPDATE: Tufton loses his seat",
-          "date": "31 December 2011",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -77,44 +77,6 @@
           "description": "Jamaican politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.jis.gov.jm/Cabinet_Ministers_and_Ministries.pdf",
-          "title": "Ministers and Ministries",
-          "date": "November 2009",
-          "publisher": "Jamaica Information Service",
-          "accessdate": "25 January 2010",
-          "format": "PDF",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20100215135214/http://www.jis.gov.jm/Cabinet_Ministers_and_Ministries.pdf",
-          "archivedate": "15 February 2010",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.sfltimes.com/",
-          "title": "South Florida Times",
-          "website": "South Florida Times",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://jamaica-gleaner.com/power/34380",
-          "title": "Some portfolios revealed",
-          "date": "January 6, 2012",
-          "website": "jamaica-gleaner.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://jamaica-gleaner.com/power/34243",
-          "title": "PNP wins 2011 general election",
-          "date": "December 29, 2011",
-          "website": "jamaica-gleaner.com",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

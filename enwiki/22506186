@@ -412,47 +412,6 @@
             "text": "Holness in 2020"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://jamaica-gleaner.com/gleaner/20120106/lead/lead1.html",
-          "title": "Journey Begins - Portia Sworn In",
-          "access-date": "6 January 2012",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20120107000320/http://jamaica-gleaner.com/gleaner/20120106/lead/lead1.html",
-          "archive-date": "7 January 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Holness to be sworn in as prime minister on Monday afternoon",
-          "url": "http://www.loopjamaica.com/content/holness-be-sworn-prime-minister-monday-afternoon",
-          "access-date": "12 September 2020",
-          "website": "www.loopjamaica.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "first": "Claude",
-          "last": "Robinson",
-          "title": "When Andrew Holness becomes prime minister today",
-          "url": "http://m.jamaicaobserver.com/mobile/columns/When-Andrew-Holness-becomes-prime-minister-today---_9979830",
-          "work": "Jamaica Observer",
-          "date": "23 October 2011",
-          "access-date": "4 December 2011",
-          "archive-url": "https://web.archive.org/web/20120407064018/http://m.jamaicaobserver.com/mobile/columns/When-Andrew-Holness-becomes-prime-minister-today---_9979830",
-          "archive-date": "7 April 2012",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
