@@ -80,6 +80,9 @@
               }
             ]
           },
+          "image": {
+            "text": "Marisa Dalrymple-Philibert.jpg"
+          },
           "office": {
             "text": "Speaker of the House of Representatives"
           },
@@ -189,10 +192,6 @@
                 "text": "St. Ann",
                 "type": "internal",
                 "page": "Saint Ann Parish"
-              },
-              {
-                "type": "internal",
-                "page": "Jamaica"
               }
             ]
           },
