@@ -1,0 +1,16 @@
+{
+    "cabinet": {
+      "id": "Q109928614",
+      "start": "2020-09-07",
+      "parent": "Q5015520"
+    },
+    "source": {
+        "url":   "https://opm.gov.jm/your-government/members-of-the-cabinet/",
+        "title": "Members of the Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/jamaica-ministers"
+}
