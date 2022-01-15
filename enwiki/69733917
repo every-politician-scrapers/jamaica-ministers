@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Dr Derrick Vincent McKoy is the Attorney General of Jamaica.",
+              "text": "Derrick Vincent McKoy is the Attorney General of Jamaica.",
               "links": [
                 {
                   "type": "internal",
@@ -29,7 +29,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dr Derrick Vincent McKoy"
+                  "Derrick Vincent McKoy"
                 ]
               }
             },
