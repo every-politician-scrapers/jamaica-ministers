@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Desmond A. McKenzie, JP (born 1 December 1952) is a Jamaican politician, former mayor of the Kingston and Saint Andrew Corporation (KSAC), in office between July 2003 and January 2012, when he was elected as Member of Parliament for the constituency of Kingston Western.",
+              "text": "Desmond A. McKenzie, JP (born 1 December 1952) is a Jamaican politician, former mayor of the Kingston and Saint Andrew Corporation (KSAC), held office between July 2003 and January 2012, when he was elected as the Member of Parliament for the constituency of Kingston Western.",
               "links": [
                 {
                   "text": "JP",
@@ -51,7 +51,7 @@
               }
             },
             {
-              "text": "He also currently serves as the Jamaica Labour Party spokesman for urban renewal, rural development and local government.",
+              "text": "He currently serves as the Jamaica Labour Party spokesman for urban renewal, rural development and local government.",
               "links": [
                 {
                   "type": "internal",
@@ -64,13 +64,8 @@
         {
           "sentences": [
             {
-              "text": "Prior to that, McKenzie, a Labour Party member, served as a Junior Spokesman of the Opposition in the Senate of Jamaica in 2002 to 2003.",
+              "text": "Prior to that, McKenzie, served as a Junior Spokesman of the Opposition in the Senate of Jamaica in 2002 to 2003.",
               "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Jamaica Labour Party"
-                },
                 {
                   "text": "Opposition",
                   "type": "internal",
