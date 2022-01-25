@@ -5,7 +5,8 @@
     "Living people",
     "Year of birth missing (living people)",
     "Place of birth missing (living people)",
-    "Jamaican military officers"
+    "Jamaican military officers",
+    "Chiefs of Defence Staff (Jamaica)"
   ],
   "sections": [
     {
@@ -15,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Lieutenant General Rocky Ricardo Meade is a Jamaican military leader who is the third and current Chief of Defence Staff (CDS) of the Jamaica Defence Force (JDF), serving since December 2016.",
+              "text": "Lieutenant General Rocky Ricardo Meade is a Jamaican military leader who was the third Chief of Defence Staff (CDS) of the Jamaica Defence Force (JDF), serving from December 2016 to January 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -131,6 +132,9 @@
           },
           "term_start": {
             "text": "1 December 2016"
+          },
+          "term_end": {
+            "text": "21 January 2022"
           },
           "predecessor": {
             "text": "Major General Antony Bertram Anderson",
