@@ -1,12 +1,18 @@
 {
-  "title": "Rocky Ricardo Meade",
-  "pageID": 62272898,
+  "title": "Antonette Wemyss Gorman",
+  "pageID": 69865181,
   "categories": [
     "Living people",
     "Year of birth missing (living people)",
+    "1970s births",
     "Place of birth missing (living people)",
+    "Chiefs of Defence Staff (Jamaica)",
     "Jamaican military officers",
-    "Chiefs of Defence Staff (Jamaica)"
+    "Female admirals",
+    "University of the West Indies alumni",
+    "Naval War College alumni",
+    "21st-century Jamaican people",
+    "21st-century Jamaican women"
   ],
   "sections": [
     {
@@ -16,81 +22,86 @@
         {
           "sentences": [
             {
-              "text": "Lieutenant General Rocky Ricardo Meade is a Jamaican military leader who was the third Chief of Defence Staff (CDS) of the Jamaica Defence Force (JDF), serving from December 2016 to January 2022.",
+              "text": "Antonette Wemyss Gorman (born 1973 (age 48)) is the chief of staff of the Jamaica Defence Force; she holds the rank of rear admiral.",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Lieutenant General"
-                },
-                {
-                  "text": "Chief of Defence Staff",
+                  "text": "chief of staff",
                   "type": "internal",
                   "page": "Chief of Defence Staff (Jamaica)"
                 },
                 {
                   "type": "internal",
                   "page": "Jamaica Defence Force"
+                },
+                {
+                  "text": "rear admiral",
+                  "type": "internal",
+                  "page": "rear admiral"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Rocky Ricardo Meade"
+                  "Antonette Wemyss Gorman"
                 ]
               }
+            },
+            {
+              "text": "She is the first female chief of staff in Jamaica, and was also the first female officer to serve at sea, and the first woman to reach the rank of commander in the JDF."
+            },
+            {
+              "text": "Her seagoing appointment was the first appointment of a woman to a front line combat role in the Caribbean.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Caribbean"
+                }
+              ]
             }
           ]
         }
       ],
       "templates": [
         {
-          "list": [
-            "Wolmer's School",
-            "UWI",
-            "USACSC",
-            "University of Amsterdam"
-          ],
-          "template": "bulletedlist"
+          "description": "Jamaica Defence Force chief of staff",
+          "template": "short description"
+        },
+        {
+          "age": "48",
+          "year": "2021",
+          "month": "09",
+          "day": "25",
+          "mos": "1",
+          "template": "birth based on age as of date"
         },
         {
           "list": [
             "Jamaica"
           ],
-          "template": "army"
+          "template": "navy"
+        },
+        {
+          "age": "48",
+          "year": "2021",
+          "month": "09",
+          "day": "25",
+          "noage": "1",
+          "mos": "1",
+          "template": "birth based on age as of date"
         }
       ],
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Lieutenant General",
+            "text": "Rear Admiral",
             "links": [
               {
                 "type": "internal",
-                "page": "Lieutenant General"
+                "page": "Rear Admiral"
               }
             ]
           },
           "name": {
-            "text": "Rocky Meade"
-          },
-          "honorific-suffix": {
-            "text": "CD, ADC, JP",
-            "links": [
-              {
-                "text": "CD",
-                "type": "internal",
-                "page": "Order of Distinction"
-              },
-              {
-                "text": "ADC",
-                "type": "internal",
-                "page": "Aide de Camp"
-              },
-              {
-                "text": "JP",
-                "type": "internal",
-                "page": "Justice of the Peace"
-              }
-            ]
+            "text": "Antonette Wemyss Gorman"
           },
           "office": {
             "text": "Chief of Defence Staff",
@@ -103,10 +114,10 @@
             ]
           },
           "image": {
-            "text": "General Meade Hero's Day 2019.jpg"
+            "text": "File:Antonette Wemyss-Gorman (170322-N-ZD845-111) (cropped).jpg"
           },
           "caption": {
-            "text": "Meade during the Hero's Day celebrations in 2019."
+            "text": "Wemyss Gorman in 2017"
           },
           "1blankname": {
             "text": "Governor General"
@@ -131,19 +142,19 @@
             ]
           },
           "term_start": {
-            "text": "1 December 2016"
-          },
-          "term_end": {
             "text": "21 January 2022"
           },
           "predecessor": {
-            "text": "Major General Antony Bertram Anderson",
+            "text": "Rocky Ricardo Meade",
             "links": [
               {
                 "type": "internal",
-                "page": "Antony Bertram Anderson"
+                "page": "Rocky Ricardo Meade"
               }
             ]
+          },
+          "birth_date": {
+            "text": "1973 (age 48)"
           },
           "birth_place": {
             "text": "Jamaica",
@@ -165,14 +176,14 @@
             ]
           },
           "serviceyears": {
-            "text": "1984–present"
+            "text": "1992–present"
           },
           "rank": {
-            "text": "Lieutenant General",
+            "text": "Rear Admiral",
             "links": [
               {
                 "type": "internal",
-                "page": "Lieutenant General"
+                "page": "Rear Admiral"
               }
             ]
           },
