@@ -22,10 +22,10 @@
         {
           "sentences": [
             {
-              "text": "Antonette Wemyss Gorman (born 1973 (age 48)) is the chief of staff of the Jamaica Defence Force; she holds the rank of rear admiral.",
+              "text": "Antonette Wemyss Gorman (born 1973 (age 48)) is the Chief of Defence Staff of the Jamaica Defence Force; she holds the rank of Rear Admiral.",
               "links": [
                 {
-                  "text": "chief of staff",
+                  "text": "Chief of Defence Staff",
                   "type": "internal",
                   "page": "Chief of Defence Staff (Jamaica)"
                 },
@@ -34,9 +34,8 @@
                   "page": "Jamaica Defence Force"
                 },
                 {
-                  "text": "rear admiral",
                   "type": "internal",
-                  "page": "rear admiral"
+                  "page": "Rear Admiral"
                 }
               ],
               "formatting": {
