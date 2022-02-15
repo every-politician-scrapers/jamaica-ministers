@@ -119,7 +119,13 @@
             "text": "Simon Musgrave 1686–1691"
           },
           {
-            "text": "William Brodrick 1693"
+            "text": "William Brodrick (politician)1693",
+            "links": [
+              {
+                "type": "internal",
+                "page": "William Brodrick (politician)"
+              }
+            ]
           },
           {
             "text": "Thomas Barrow 1698"
