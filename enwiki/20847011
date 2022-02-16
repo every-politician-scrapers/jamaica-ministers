@@ -95,7 +95,21 @@
       "depth": 1,
       "paragraphs": [
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Alan Brodrick, 1st Viscount Midleton, (Lord Chancellor of Ireland) 1693",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alan Brodrick, 1st Viscount Midleton"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lord Chancellor of Ireland"
+                }
+              ]
+            }
+          ]
         },
         {
           "sentences": []
@@ -119,14 +133,16 @@
             "text": "Simon Musgrave 1686–1691"
           },
           {
-            "text": "William Brodrick (politician)1693",
+            "text": "William Brodrick (politician), brother of",
             "links": [
               {
                 "type": "internal",
                 "page": "William Brodrick (politician)"
               }
             ]
-          },
+          }
+        ],
+        [
           {
             "text": "Thomas Barrow 1698"
           },
