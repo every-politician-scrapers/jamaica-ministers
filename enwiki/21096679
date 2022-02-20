@@ -143,12 +143,8 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency The Most Honourable\nSir",
+            "text": "The Most Honourable\nSir",
             "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              },
               {
                 "type": "internal",
                 "page": "The Most Honourable"
