@@ -142,12 +142,18 @@
       ],
       "infoboxes": [
         {
-          "honorific-prefix": {
-            "text": "The Most Honourable\nSir",
+          "honorific_prefix": {
+            "text": "His Excellency the Most Honourable Sir",
             "links": [
               {
+                "text": "His Excellency",
                 "type": "internal",
-                "page": "The Most Honourable"
+                "page": "Excellency"
+              },
+              {
+                "text": "the Most Honourable",
+                "type": "internal",
+                "page": "the Most Honourable"
               },
               {
                 "type": "internal",
@@ -158,7 +164,7 @@
           "name": {
             "text": "Patrick Allen"
           },
-          "honorific-suffix": {
+          "honorific_suffix": {
             "text": "ON GCMG CD KStJ",
             "links": [
               {
@@ -185,6 +191,9 @@
           },
           "image": {
             "text": "Sir Patrick Allen.jpg"
+          },
+          "caption": {
+            "text": "Allen in July 2011"
           },
           "office": {
             "text": "6th Governor-General of Jamaica",
