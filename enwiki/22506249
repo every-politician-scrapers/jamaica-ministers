@@ -41,6 +41,15 @@
                 },
                 {
                   "type": "internal",
+                  "page": "Saint Catherine Central"
+                },
+                {
+                  "text": "1997",
+                  "type": "internal",
+                  "page": "1997 Jamaican general election"
+                },
+                {
+                  "type": "internal",
                   "page": "Jamaica Labour Party"
                 },
                 {
@@ -105,7 +114,13 @@
             "text": "Olivia Grange"
           },
           "constituency_mp": {
-            "text": "Saint Catherine Central"
+            "text": "Saint Catherine Central",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Catherine Central"
+              }
+            ]
           },
           "parliament": {
             "text": "Jamaica"
