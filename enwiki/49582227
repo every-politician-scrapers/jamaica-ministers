@@ -1,287 +1,34 @@
 {
-  "title": "Fayval Williams",
-  "pageID": 49582227,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "Government ministers of Jamaica",
-    "Members of the House of Representatives of Jamaica",
-    "Jamaica Labour Party politicians",
-    "Harvard College alumni",
-    "Women government ministers of Jamaica",
-    "Education Ministers of Jamaica",
-    "Wharton School of the University of Pennsylvania alumni",
-    "CFA charterholders",
-    "21st-century Jamaican women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fayval Shirley Williams (born 28 May 1958) is a Jamaican politician who is the Minister of Education, Youth and Information and the Member of Parliament for the St Andrew Eastern constituency.",
-              "links": [
-                {
-                  "text": "Jamaican",
-                  "type": "internal",
-                  "page": "Jamaica"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of parliament"
-                },
-                {
-                  "text": "St Andrew Eastern",
-                  "type": "internal",
-                  "page": "Saint Andrew East (Jamaica Parliament constituency)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Fayval Shirley Williams"
-                ]
-              }
-            },
-            {
-              "text": "Williams had previously been the minister in the Ministry of Science, Energy and Technology as well as the minister without portfolio in the Ministry of Finance and the Public Service."
-            },
-            {
-              "text": "She is the first female to be a minister in the Ministry of Finance and the Public Service, and also the first female minister of science, energy and technology."
-            },
-            {
-              "text": "In June 2014, Fayval Williams was named as a member of the Jamaica Labour Party's Economic Advisory Council.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jamaica Labour Party"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In the September 3, 2020 General Elections Williams was re-elected to the House of Representatives as the member of parliament for St Andrew Eastern."
-            },
-            {
-              "text": "She was sworn in at a ceremony held at the Jamaica Conference Centre on 15 September 2020 amid the coronavirus pandemic."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Williams was first elected as Member of Parliament 25 February 2016 when she polled 7,143 votes to become the first female Member of Parliament for St Andrew Eastern."
-            },
-            {
-              "text": "She is a member of the governing Jamaica Labour Party and has served as secretary for the party's Central Executive Committee.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jamaica Labour Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1958",
-          "month": "5",
-          "day": "28",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Fayval Williams"
-          },
-          "office": {
-            "text": "Minister of Education, Youth and Information"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Fayval-Williams-Official-3714cr.jpg"
-          },
-          "caption": {
-            "text": "Minister of Education, Youth and Information Fayval Williams"
-          },
-          "predecessor": {
-            "text": "Karl Samuda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karl Samuda"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of Parliament for St Andrew Eastern"
-          },
-          "predecessor1": {
-            "text": "Andre Hylton"
-          },
-          "party": {
-            "text": "Jamaica Labour Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jamaica Labour Party"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Science, Energy and Technology"
-          },
-          "predecessor2": {
-            "text": "Andrew Holness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrew Holness"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Daryl Vaz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Daryl Vaz"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Without Portfolio in the Ministry of Finance and the Public Service"
-          },
-          "minister3": {
-            "text": "Nigel A. L. Clarke",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nigel A. L. Clarke"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Horace Dalley"
-          },
-          "primeminister1": {
-            "text": "Andrew Holness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrew Holness"
-              }
-            ]
-          },
-          "office4": {
-            "text": "State Minister in the Ministry of Finance and the Public Service"
-          },
-          "minister4": {
-            "text": "Audley Shaw",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Audley Shaw"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 28, 1958"
-          },
-          "birth_place": {
-            "text": "St Catherine",
-            "links": [
-              {
-                "text": "St Catherine",
-                "type": "internal",
-                "page": "Saint Catherine Parish"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "🇯🇲 jamaica",
-            "links": [
-              {
-                "text": "jamaica",
-                "type": "internal",
-                "page": "jamaica"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Leo Williams"
-          },
-          "alma_mater": {
-            "text": "* University of Pennsylvania Harvard University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Pennsylvania"
-              },
-              {
-                "type": "internal",
-                "page": "Harvard University"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 September 2020"
-          },
-          "term_start1": {
-            "text": "16 February 2016"
-          },
-          "term_start2": {
-            "text": "14 February 2019"
-          },
-          "term_end2": {
-            "text": "12 September 2020"
-          },
-          "term_start3": {
-            "text": "27 March 2018"
-          },
-          "term_end3": {
-            "text": "13 February 2019"
-          },
-          "term_start4": {
-            "text": "7 March 2016"
-          },
-          "term_end4": {
-            "text": "26 March 2018"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Fayval Williams",
+  "office": "Minister of Education, Youth and Information",
+  "honorific-prefix": "The Honourable",
+  "honorific-suffix": "MP",
+  "image": "Fayval-Williams-Official-3714cr.jpg",
+  "caption": "Minister of Education, Youth and Information Fayval Williams",
+  "predecessor": "Karl Samuda",
+  "office1": "Member of Parliament for St Andrew Eastern",
+  "predecessor1": "Andre Hylton",
+  "party": "Jamaica Labour Party",
+  "office2": "Minister of Science, Energy and Technology",
+  "predecessor2": "Andrew Holness",
+  "successor2": "Daryl Vaz",
+  "office3": "Without Portfolio in the Ministry of Finance and the Public Service",
+  "minister3": "Nigel A. L. Clarke",
+  "predecessor3": "Horace Dalley",
+  "primeminister1": "Andrew Holness",
+  "office4": "State Minister in the Ministry of Finance and the Public Service",
+  "minister4": "Audley Shaw",
+  "birth_date": "May 28, 1958",
+  "birth_place": "St Catherine",
+  "nationality": "🇯🇲 jamaica",
+  "spouse": "Leo Williams",
+  "alma_mater": "* University of Pennsylvania Harvard University",
+  "term_start": "13 September 2020",
+  "term_start1": "16 February 2016",
+  "term_start2": "14 February 2019",
+  "term_end2": "12 September 2020",
+  "term_start3": "27 March 2018",
+  "term_end3": "13 February 2019",
+  "term_start4": "7 March 2016",
+  "term_end4": "26 March 2018"
 }
