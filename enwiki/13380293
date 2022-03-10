@@ -111,6 +111,15 @@
           "term_start2": {
             "text": "March 2018"
           },
+          "predecessor2": {
+            "text": "Francis Tulloch",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francis Tulloch"
+              }
+            ]
+          },
           "birth_date": {
             "text": "November 10, 1952"
           },
@@ -145,7 +154,7 @@
             "number": 2002
           },
           "office3": {
-            "text": "Member of the Jamaica Parliament\nfor Saint James North Western",
+            "text": "Member of the Jamaica Parliament for Saint James North Western",
             "links": [
               {
                 "type": "internal",
@@ -154,6 +163,45 @@
               {
                 "type": "internal",
                 "page": "Saint James North Western"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the Jamaica Parliament for Hanover Western",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Parliament"
+              },
+              {
+                "type": "internal",
+                "page": "Hanover Western"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1980",
+            "number": 1980
+          },
+          "term_end4": {
+            "text": "1989",
+            "number": 1989
+          },
+          "predecessor4": {
+            "text": "Roy Robinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roy Robinson"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Benjamin Clare",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benjamin Clare"
               }
             ]
           }

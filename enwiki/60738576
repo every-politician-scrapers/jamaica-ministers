@@ -23,21 +23,17 @@
               }
             },
             {
-              "text": "He is currently a senator and Parliamentary secretary.",
+              "text": "He is currently a Minister without Portfolio in the Office of the Prime Minister with responsibility for Information.",
               "links": [
                 {
-                  "text": "senator",
-                  "type": "internal",
-                  "page": "Parliament of Jamaica"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliamentary secretary"
+                  "text": "Minister without Portfolio in the Office of the Prime Minister",
+                  "type": "external",
+                  "site": "https://opm.gov.jm/your-government/members-of-the-cabinet/"
                 }
               ]
             },
             {
-              "text": "Morgan is a member of the governing Jamaica Labour Party.",
+              "text": "He is a member of the governing Jamaica Labour Party.",
               "links": [
                 {
                   "type": "internal",

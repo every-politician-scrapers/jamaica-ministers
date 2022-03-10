@@ -447,8 +447,9 @@
               "text": "Floyd Green, MP",
               "links": [
                 {
+                  "text": "Floyd Green",
                   "type": "internal",
-                  "page": "Floyd Green"
+                  "page": "Floyd Green (Jamaican politician)"
                 }
               ]
             },
@@ -773,7 +774,13 @@
               "text": "Ministry of Culture, Gender, Entertainment and Sports"
             },
             "Minister": {
-              "text": "Alando Terrelonge, MP"
+              "text": "Alando Terrelonge, MP",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alando Terrelonge"
+                }
+              ]
             },
             "Ministerial title": {
               "text": "Minister of State in the Ministry of Culture, Gender, Entertainment and Sports"

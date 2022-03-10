@@ -22,10 +22,15 @@
         {
           "sentences": [
             {
-              "text": "Antonette Wemyss Gorman (born 1973 (age 48)) is the Chief of Defence Staff of the Jamaica Defence Force; she holds the rank of Rear Admiral.",
+              "text": "Antonette Wemyss Gorman (born 1973 (age 48)) is a Jamaican military officer serving as the chief of defence staff of the Jamaica Defence Force; she holds the rank of rear admiral.",
               "links": [
                 {
-                  "text": "Chief of Defence Staff",
+                  "text": "Jamaican",
+                  "type": "internal",
+                  "page": "Jamaicans"
+                },
+                {
+                  "text": "chief of defence staff",
                   "type": "internal",
                   "page": "Chief of Defence Staff (Jamaica)"
                 },
@@ -34,6 +39,7 @@
                   "page": "Jamaica Defence Force"
                 },
                 {
+                  "text": "rear admiral",
                   "type": "internal",
                   "page": "Rear Admiral"
                 }
@@ -61,7 +67,7 @@
       ],
       "templates": [
         {
-          "description": "Jamaica Defence Force chief of staff",
+          "description": "Jamaican military officer",
           "template": "short description"
         },
         {
@@ -71,12 +77,6 @@
           "day": "25",
           "mos": "1",
           "template": "birth based on age as of date"
-        },
-        {
-          "list": [
-            "Jamaica"
-          ],
-          "template": "navy"
         },
         {
           "age": "48",
@@ -90,18 +90,6 @@
       ],
       "infoboxes": [
         {
-          "honorific-prefix": {
-            "text": "Rear Admiral",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rear Admiral"
-              }
-            ]
-          },
-          "name": {
-            "text": "Antonette Wemyss Gorman"
-          },
           "office": {
             "text": "Chief of Defence Staff",
             "links": [
@@ -113,7 +101,7 @@
             ]
           },
           "image": {
-            "text": "File:Antonette Wemyss-Gorman (170322-N-ZD845-111) (cropped).jpg"
+            "text": "Antonette Wemyss-Gorman (170322-N-ZD845-111) (cropped).jpg"
           },
           "caption": {
             "text": "Wemyss Gorman in 2017"
@@ -156,21 +144,30 @@
             "text": "1973 (age 48)"
           },
           "birth_place": {
-            "text": "Jamaica",
+            "text": "Jamaica"
+          },
+          "alma_mater": {
+            "text": "Naval War College University of the West Indies",
             "links": [
               {
                 "type": "internal",
-                "page": "Jamaica"
+                "page": "Naval War College"
+              },
+              {
+                "type": "internal",
+                "page": "University of the West Indies"
               }
             ]
           },
           "allegiance": {
-            "text": "🇯🇲 Jamaica",
+            "text": "Jamaica"
+          },
+          "branch": {
+            "text": "Jamaica Defence Force Coast Guard",
             "links": [
               {
-                "text": "Jamaica",
                 "type": "internal",
-                "page": "jamaica"
+                "page": "Jamaica Defence Force Coast Guard"
               }
             ]
           },
@@ -195,6 +192,10 @@
                 "page": "Chief of Defence Staff (Jamaica)"
               }
             ]
+          },
+          "children": {
+            "text": "1",
+            "number": 1
           }
         }
       ]
