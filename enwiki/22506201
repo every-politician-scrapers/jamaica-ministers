@@ -18,12 +18,21 @@
         {
           "sentences": [
             {
-              "text": "Edmund Bartlett is a Jamaican politician.",
+              "text": "Edmund Bartlett is a Jamaican politician who is Member of Parliament for Saint James East Central.",
               "links": [
                 {
                   "text": "Jamaican",
                   "type": "internal",
                   "page": "Jamaica"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Jamaica"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint James East Central"
                 }
               ],
               "formatting": {
@@ -55,10 +64,29 @@
               ]
             },
             {
-              "text": "Bartlett, a native of the parish of Westmoreland, Jamaica, was educated at St Elizabeth Technical High School, where he was Head Boy, and the University of the West Indies, Mona, where he studied sociology."
+              "text": "Bartlett, a native of the parish of Westmoreland, Jamaica, was educated at St Elizabeth Technical High School, where he was Head Boy, and the University of the West Indies, Mona, where he studied sociology.",
+              "links": [
+                {
+                  "text": "parish of Westmoreland, Jamaica",
+                  "type": "internal",
+                  "page": "Westmoreland Parish"
+                },
+                {
+                  "text": "University of the West Indies, Mona",
+                  "type": "internal",
+                  "page": "University of the West Indies - Mona"
+                }
+              ]
             },
             {
-              "text": "He was first elected to the House of Representatives and has served as a minister in every Jamaica Labour Party administration since then."
+              "text": "He was first elected to the House of Representatives in 2002 and has served as a minister in every Jamaica Labour Party administration since then.",
+              "links": [
+                {
+                  "text": "2002",
+                  "type": "internal",
+                  "page": "2002 Jamaican general election"
+                }
+              ]
             }
           ]
         }

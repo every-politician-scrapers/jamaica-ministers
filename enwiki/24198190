@@ -58,7 +58,14 @@
             "text": "Hon. Marsha Smith - Ministry of Finance and the Public Service"
           },
           {
-            "text": "Hon, Dr. Norman Dunn - Ministry of Industry, Investment and Commerce"
+            "text": "Hon, Dr. Norman Dunn - Ministry of Industry, Investment and Commerce",
+            "links": [
+              {
+                "text": "Norman Dunn",
+                "type": "internal",
+                "page": "Norman Alexander Dunn"
+              }
+            ]
           },
           {
             "text": "Hon. Robert Morgan - Ministry of Education, Youth and Information"
@@ -115,8 +122,9 @@
             "text": "Hon. Floyd Green - Ministry of Education, Youth and Information",
             "links": [
               {
+                "text": "Floyd Green",
                 "type": "internal",
-                "page": "Floyd Green"
+                "page": "Floyd Green (Jamaican politician)"
               }
             ]
           },

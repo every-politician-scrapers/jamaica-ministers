@@ -76,6 +76,20 @@
                   "page": "2016 Jamaican general election"
                 }
               ]
+            },
+            {
+              "text": "He is the MP for the Saint Mary Western constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saint Mary Western"
+                },
+                {
+                  "text": "constituency",
+                  "type": "internal",
+                  "page": "Constituencies of Jamaica"
+                }
+              ]
             }
           ]
         }

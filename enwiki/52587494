@@ -304,6 +304,16 @@
                 "page": "Clarendon South Eastern"
               }
             ]
+          },
+          "termstart2": {
+            "text": "2020 Clarendon South Eastern by-election",
+            "links": [
+              {
+                "text": "2020 Clarendon South Eastern by-election",
+                "type": "internal",
+                "page": "2020 Clarendon South Eastern by-election"
+              }
+            ]
           }
         }
       ]

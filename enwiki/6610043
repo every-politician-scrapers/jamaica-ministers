@@ -109,7 +109,19 @@
               }
             },
             {
-              "text": "It was a position he held until 2011 when he was elected as Member of Parliament for the Kingston Western Constituency in the General Elections of that year."
+              "text": "It was a position he held until 2011 when he was elected as Member of Parliament for the Kingston Western Constituency in the General Elections of that year.",
+              "links": [
+                {
+                  "text": "Kingston Western Constituency",
+                  "type": "internal",
+                  "page": "Kingston Western (Jamaica Parliament constituency)"
+                },
+                {
+                  "text": "General Elections of that year",
+                  "type": "internal",
+                  "page": "2011 Jamaican general election"
+                }
+              ]
             }
           ]
         },
