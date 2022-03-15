@@ -1,0 +1,14 @@
+id,name,relationship,relative,relativename
+Q1167006,Daryl Vaz,father,Q74483125,Douglas Vaz
+Q1167006,Daryl Vaz,spouse,Q74600954,Ann-Marie Vaz
+Q16751168,Tom Tavares-Finson,spouse,Q253612,Cindy Breakspeare
+Q2065916,Pearnel Charles,sibling,Q50385566,Lorna Golding
+Q315662,Bruce Golding,father,Q7673897,Tacius Golding
+Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
+Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
+Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
+Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+Q9682,Elizabeth II,father,Q280856,George VI
+Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
+Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
