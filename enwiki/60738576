@@ -1,10 +1,13 @@
 {
-  "name": "Robert Nesta Morgan",
-  "birth_name": "Robert Nesta Morgan",
+  "name": "Robert Morgan",
+  "office": "Minister without Portfolio in the Office of the Prime Minister",
+  "office2": "Member of Parliament",
+  "constituency": "Clarendon North Central",
+  "termstart": "11 January 2022",
+  "termstart2": "3 September 2022",
   "birth_date": "November 13, 1981",
+  "party": "Jamaica Labour Party",
   "birth_place": "Wood Hall, Clarendon, Jamaica",
-  "occupation": "MP North Central Clarendon Sept 3rd to present",
-  "known_for": "Minister without Portfolio Jan 11, 2022 to Present",
-  "children": "1",
-  "website": "robertnestamorgan.com"
+  "birth_name": "Robert Nesta Morgan",
+  "predecessor2": "Pearnel Charles"
 }
