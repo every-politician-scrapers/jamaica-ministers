@@ -1,4 +1,8 @@
 {
+    "jurisdiction": {
+      "name": "Jamaica",
+      "id": "Q766"
+    },
     "cabinet": {
       "id": "Q109928614",
       "start": "2020-09-07",
