@@ -2,9 +2,8 @@
   "honorific-prefix": "Senator the Honourable",
   "name": "Kamina Johnson Smith",
   "office": "Minister of Foreign Affairs and Foreign Trade",
+  "appointer": "The Most Honourable Andrew Holness, ON, PC, MP",
   "term_start": "7 March 2016",
   "party": "Jamaica Labour Party",
-  "birth_place": "St. Andrew, Jamaica",
-  "primeminister": "Andrew Holness",
-  "predecessor": "Arnold Joseph Nicholson"
+  "birth_place": "St. Andrew, Jamaica"
 }
