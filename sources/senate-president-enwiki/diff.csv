@@ -1,11 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Clifford Campbell->Clifford Clarence Campbell,Q339040,1962-08-31,1962-11-30
-->,George Samuel Ranglin,Q5544258,1962-12-07,1972-01-01->1972
-->,Allan George Richard Byfield,Q4730622,1972-03-21,1980-01-01->1980
-->,Oswald Harding,Q7108124,1980-11-18,1984-01-01->1984
-->,Jeanette Rose Grant-Woodham,Q6171904,1984-08-21,1986-01-01->1986
-+++,Ephraim Augustus Morgan,,1986,1989
-->,Howard Cooke,Q1371514,1989-01-01->1989,1993-01-01->1993
-->,Winston V. Jones,Q16730418,1993-01-01->1993,1995-01-01->1995
-->,Syringa Marshall-Burnett,Q7663345,1995-01-01->1995,2007-01-01->2007
-->,Floyd Morris,Q16205164,2013-01-01->2013-05-17,2016-01-01->2016-02-05
+@@,item,itemlabel,startdate,enddate
+->,Q16205164,Floyd Morris,2013->2013-05-17,2016->2016-02-05
