@@ -1,15 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Felix Veitch->Felix Gordon Veitch,Q99395240,1945-01-01,1947-01-01->1947
-+++,Clement Mullings Aitchison,,1947,1950
-->,Clifford Campbell,Q339040,1950-01-01->1950,1955-01-01->1955
-+++,Burnet Birthwright (BB) Coke,,1955,1962
-->,Tacius Golding,Q7673897,1962-01-01->1962,1967-01-01->1967
-->,Eugene Condell Leonard Parkinson,Q5407137,1967-01-01->1967,1972-01-01->1972
-->,Ripton MacPherson,Q2154610,1972-02-01->1972-02,1980-10-01->1980-10
-->,Talbert Monsell Forrest,Q7678999,1980-01-01->1980,1983-01-01->1983
-->,Alva Ross,Q4737630,1983-01-01->1983,1989-01-01->1989
-->,Headly Cunningham,Q5689835,1989-01-01->1989,1993-01-01->1993
-->,Carl Marshall,Q5040525,1993-01-01->1993,1997-01-01->1997
-->,Violet Neilson->Violet Nielson,Q7933270,1997-01-01->1997,2003-01-01->2003
-+++,Michael Peart,Q17325174,2003,2007
----,Michael Peart,Q17325174,2003-01-01,2007-01-01
+@@,item,itemlabel,startdate,enddate
+->,Q7933270,Violet Neilson->Violet Nielson,1997,2003
