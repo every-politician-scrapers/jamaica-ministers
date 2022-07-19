@@ -1,0 +1,162 @@
+{
+  "title": "Robert Montague (Jamaican politician)",
+  "pageID": 36707179,
+  "categories": [
+    "Living people",
+    "Jamaica Labour Party politicians",
+    "1965 births",
+    "Members of the Senate of Jamaica",
+    "Government ministers of Jamaica"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Robert Montague (born 1965) is a Jamaican politician with the Jamaica Labour Party.",
+              "links": [
+                {
+                  "text": "Jamaican",
+                  "type": "internal",
+                  "page": "Jamaica"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Robert Montague"
+                ]
+              }
+            },
+            {
+              "text": "He comes from a political family; his father Asquith Nathaniel was a charter member of the JLP."
+            },
+            {
+              "text": "He entered politics in 1990 as a councillor for Carron Hall, Saint Mary Parish.",
+              "links": [
+                {
+                  "text": "Saint Mary Parish",
+                  "type": "internal",
+                  "page": "Saint Mary Parish, Jamaica"
+                }
+              ]
+            },
+            {
+              "text": "He later became the mayor of Port Maria."
+            },
+            {
+              "text": "In 2012, Opposition Leader Andrew Holness named him a member of the Senate of Jamaica.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrew Holness"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senate of Jamaica"
+                }
+              ]
+            },
+            {
+              "text": "He is now the Minister of Transport And Mining in the Andrew Holness-led government after winning the 2016 Jamaican general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrew Holness"
+                },
+                {
+                  "text": "2016 Jamaican general election",
+                  "type": "internal",
+                  "page": "2016 Jamaican general election"
+                }
+              ]
+            },
+            {
+              "text": "He is the MP for the Saint Mary Western constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saint Mary Western"
+                },
+                {
+                  "text": "constituency",
+                  "type": "internal",
+                  "page": "Constituencies of Jamaica"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2014",
+          "template": "use jamaican english"
+        },
+        {
+          "date": "April 2014",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://jamaica-gleaner.com/gleaner/20091206/letters/letters4.html",
+          "title": "Robert Montague: Caribbean man with an international flavour",
+          "work": "Jamaica Gleaner",
+          "date": "2009-12-06",
+          "accessdate": "2012-08-11",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20120122013446/http://jamaica-gleaner.com/gleaner/20091206/letters/letters4.html",
+          "archivedate": "22 January 2012",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://jamaica-gleaner.com/gleaner/20061212/news/news6.html",
+          "title": "Making news in Saint Mary",
+          "work": "Jamaica Gleaner",
+          "date": "2006-12-12",
+          "accessdate": "2012-08-11",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20081121164131/http://www.jamaica-gleaner.com/gleaner/20061212/news/news6.html",
+          "archivedate": "21 November 2008",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://jamaica-gleaner.com/gleaner/20120117/lead/lead2.html",
+          "title": "All but one senator named",
+          "work": "Jamaica Gleaner",
+          "date": "2012-01-17",
+          "accessdate": "2012-08-11",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

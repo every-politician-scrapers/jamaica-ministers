@@ -1,0 +1,185 @@
+{
+  "title": "Bryan Sykes (judge)",
+  "pageID": 60214190,
+  "categories": [
+    "Living people",
+    "20th-century Jamaican lawyers",
+    "Chief Justices of Jamaica",
+    "Year of birth missing (living people)",
+    "21st-century Jamaican judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bryan Sykes is a Jamaican judge.",
+              "links": [
+                {
+                  "text": "judge",
+                  "type": "internal",
+                  "page": "judge"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bryan Sykes"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed as the Chief Justice of Jamaica on 1 February 2018 and was sworn in on 1 March 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of Jamaica"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican judge",
+          "template": "short description"
+        },
+        {
+          "country": "JAM",
+          "_list": "OJ",
+          "template": "postnominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Jamaican",
+            "links": [
+              {
+                "text": "Jamaican",
+                "type": "internal",
+                "page": "Jamaica"
+              }
+            ]
+          },
+          "name": {
+            "text": "Bryan Sykes"
+          },
+          "honorific-suffix": {
+            "text": "OJ",
+            "links": [
+              {
+                "text": "OJ",
+                "type": "internal",
+                "page": "Order of Jamaica"
+              }
+            ]
+          },
+          "office": {
+            "text": "Chief Justice of Jamaica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Justice of Jamaica"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 March 2018"
+          },
+          "predecessor": {
+            "text": "Zaila McCalla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zaila McCalla"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Order of Jamaica (2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Jamaica"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Justice Bryan Sykes sworn in as chief justice",
+          "url": "http://www.jamaicaobserver.com/latestnews/Justice_Bryan_Sykes_sworn_in_as_chief_justice",
+          "accessdate": "12 March 2019",
+          "agency": "Jamaica Observer",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Former Chief Justice Welcomes Hon. Bryan Sykes’ Appointment",
+          "url": "https://jis.gov.jm/former-chief-justice-welcomes-hon-bryan-sykes-appointment/",
+          "website": "JIS News",
+          "accessdate": "12 March 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "chief justices of jamaica"
+        },
+        {
+          "template": "caribbean-law-bio-stub"
+        },
+        {
+          "template": "jamaica-bio-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "The Supreme Court",
+            "links": [
+              {
+                "text": "The Supreme Court",
+                "type": "external",
+                "site": "http://www.supremecourt.gov.jm/content/chief-justices"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

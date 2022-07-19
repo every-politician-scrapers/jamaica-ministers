@@ -1,0 +1,181 @@
+{
+  "title": "Karl Samuda",
+  "pageID": 22506198,
+  "categories": [
+    "Living people",
+    "Members of the House of Representatives of Jamaica",
+    "Government ministers of Jamaica",
+    "Education Ministers of Jamaica",
+    "University of Ottawa alumni",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Karl Samuda is a Jamaican politician born 8 February 1942.",
+              "formatting": {
+                "bold": [
+                  "Karl Samuda"
+                ]
+              }
+            },
+            {
+              "text": "He completed his education at the University of Ottawa and is currently the Minister without Portfolio in the Ministry of Economic Growth and Job Creation with responsibility for Water, Works and Housing in Jamaica and previously the Minister of Industry, Commerce, Agriculture and Fisheries and served in that position between 2007 and 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Ottawa"
+                },
+                {
+                  "text": "Minister without Portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jamaica"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Karl Samuda is a businessman, farmer and a technocrat and, is best known as a veteran politician.",
+              "links": [
+                {
+                  "text": "technocrat",
+                  "type": "internal",
+                  "page": "technocrat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He attended Ardenne High School and pursued tertiary education in Canada, where he obtained a Bachelor of Commerce Degree from the University of Ottawa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ardenne High School"
+                },
+                {
+                  "text": "tertiary education",
+                  "type": "internal",
+                  "page": "tertiary education"
+                },
+                {
+                  "type": "internal",
+                  "page": "Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Ottawa"
+                }
+              ]
+            },
+            {
+              "text": "Steeped in the discipline of Business Administration, he returned to Jamaica and was employed to Alcan Jamaica Limited and Industrial Gases Limited before venturing into furniture manufacturing and later farming, vocations which still occupy his interest, if and when his ministerial duties and political activities allow."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Karl Samuda also served on the Electoral Commission of Jamaica, having previously served an eight-year stint as a member of the Electoral Advisory Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Electoral Commission of Jamaica"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A former General Secretary of the Jamaica Labour Party, Karl Samuda has been the Member of Parliament for Saint Andrew North Central since 1980, and has the distinction of representing both major political parties in that constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                },
+                {
+                  "text": "Saint Andrew North Central",
+                  "type": "internal",
+                  "page": "Saint Andrew North Central (Jamaica Parliament constituency)"
+                },
+                {
+                  "text": "1980",
+                  "type": "internal",
+                  "page": "1980 Jamaican general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has served as Minister of State in earlier administrations and was Minister of Industry, Commerce Agriculture & Fisheries as well as Minister without Portfolio in the Ministry of Economic Growth and Job Creation (MEGJC).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of State"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is married and has three sons."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2012",
+          "template": "use jamaican english"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

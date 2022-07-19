@@ -1,0 +1,201 @@
+{
+  "title": "Alando Terrelonge",
+  "pageID": 70303946,
+  "categories": [
+    "Living people",
+    "Government ministers of Jamaica",
+    "21st-century Jamaican politicians",
+    "Members of the House of Representatives of Jamaica",
+    "Jamaica Labour Party politicians",
+    "People from Saint Catherine Parish",
+    "People associated with the Norman Manley Law School",
+    "University of the West Indies alumni",
+    "Alumni of the University of Warwick",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alando Terrelonge is a Jamaican politician from the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alando Terrelonge"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "MP for Saint Catherine East Central",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Catherine East Central"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "25 February 2016",
+            "links": [
+              {
+                "text": "25 February 2016",
+                "type": "internal",
+                "page": "2016 Jamaican general election"
+              }
+            ]
+          },
+          "party": {
+            "text": "Jamaica Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Labour Party"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Shahine Robinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shahine Robinson"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Alando Terrelonge",
+          "url": "https://www.jampja.org/parliamentarian/alando-terrlonge/",
+          "access-date": "2022-03-13",
+          "website": "JAMP",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Campion College",
+            "links": [
+              {
+                "text": "Campion College",
+                "type": "internal",
+                "page": "Campion College, Jamaica"
+              }
+            ]
+          },
+          {
+            "text": "University of the West Indies at Cave Hill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the West Indies at Cave Hill"
+              }
+            ]
+          },
+          {
+            "text": "Norman Manley Law School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norman Manley Law School"
+              }
+            ]
+          },
+          {
+            "text": "University of Warwick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Warwick"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Ministerial offices",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "March 2018 – Minister of State in the Ministry of Culture, Gender, Entertainment and Sports"
+          },
+          {
+            "text": "February 2019 – Minister of State in the Ministry of Education, Youth & Information"
+          },
+          {
+            "text": "September 2020 – Minister of State in the Ministry of Culture, Gender, Entertainment and Sport"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

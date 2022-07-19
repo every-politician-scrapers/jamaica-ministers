@@ -1,0 +1,139 @@
+{
+  "title": "Zavia Mayne",
+  "pageID": 70269826,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Members of the House of Representatives of Jamaica",
+    "21st-century Jamaican politicians",
+    "Government ministers of Jamaica",
+    "Jamaica Labour Party politicians",
+    "People from Saint Ann Parish",
+    "People associated with the Norman Manley Law School",
+    "Alumni of the University of London"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zavia T. Mayne is a Jamaican Labour Party politician currently serving as Member of Parliament for Saint Ann South Western.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Jamaica"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Ann South Western"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Zavia T. Mayne"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is currently Ministry of Labour and Social Security in the Cabinet of Jamaica under Prime Minister Andrew Holness.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Jamaica"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Jamaica"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrew Holness"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "MP for Saint Ann South Western",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Ann South Western"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "2016",
+            "number": 2016
+          },
+          "party": {
+            "text": "Jamaica Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Labour Party"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "unknown"
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Zavia Mayne – Office of the Prime Minister",
+          "url": "https://opm.gov.jm/cabinet_ministers/zavia-mayne/",
+          "access-date": "2022-03-09",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

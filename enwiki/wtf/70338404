@@ -1,0 +1,128 @@
+{
+  "title": "William J.C. Hutchinson",
+  "pageID": 70338404,
+  "categories": [
+    "Living people",
+    "Government ministers of Jamaica",
+    "21st-century Jamaican politicians",
+    "People from Saint Elizabeth Parish",
+    "Jamaica Labour Party politicians",
+    "Members of the House of Representatives of Jamaica",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "William James Charles Hutchinson is a Jamaican politician from the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "William James Charles Hutchinson"
+                ]
+              }
+            },
+            {
+              "text": "He is the Minister of State in the Ministry of Transport and Mining.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Transport and Mining"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "MP for Saint Elizabeth North Western",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Elizabeth North Western"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "18 December 1997",
+            "links": [
+              {
+                "text": "18 December 1997",
+                "type": "internal",
+                "page": "1997 Jamaican general election"
+              }
+            ]
+          },
+          "party": {
+            "text": "Jamaica Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Labour Party"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "J.C. Hutchinson – Jamaica Information Service",
+          "url": "https://jis.gov.jm/government/ministers/j-c-hutchinson/",
+          "access-date": "2022-03-18",
+          "website": "jis.gov.jm",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

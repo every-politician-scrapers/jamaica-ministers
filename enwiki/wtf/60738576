@@ -1,0 +1,190 @@
+{
+  "title": "Robert Nesta Morgan",
+  "pageID": 60738576,
+  "categories": [
+    "Living people",
+    "1981 births",
+    "Jamaica Labour Party politicians",
+    "People from Clarendon Parish, Jamaica"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Robert Nesta Morgan (born 13 November 1981) is a Jamaican politician.",
+              "formatting": {
+                "bold": [
+                  "Robert Nesta Morgan"
+                ]
+              }
+            },
+            {
+              "text": "He is currently a Minister without Portfolio in the Office of the Prime Minister with responsibility for Information.",
+              "links": [
+                {
+                  "text": "Minister without Portfolio in the Office of the Prime Minister",
+                  "type": "external",
+                  "site": "https://opm.gov.jm/your-government/members-of-the-cabinet/"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the governing Jamaica Labour Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ]
+            },
+            {
+              "text": "Morgan represents Clarendon North Central.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Clarendon North Central"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician (born 1981)",
+          "template": "short description"
+        },
+        {
+          "date": "May 2019",
+          "template": "use jamaican english"
+        },
+        {
+          "date": "June 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1981",
+          "month": "11",
+          "day": "13",
+          "mf": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Robert Morgan"
+          },
+          "office": {
+            "text": "Minister without Portfolio in the Office of the Prime Minister"
+          },
+          "office2": {
+            "text": "Member of Parliament"
+          },
+          "constituency": {
+            "text": "Clarendon North Central",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Clarendon North Central"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "11 January 2022"
+          },
+          "termstart2": {
+            "text": "3 September 2020"
+          },
+          "birth_date": {
+            "text": "November 13, 1981"
+          },
+          "party": {
+            "text": "Jamaica Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Labour Party"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Wood Hall, Clarendon, Jamaica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wood Hall, Clarendon"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Robert Nesta Morgan"
+          },
+          "predecessor2": {
+            "text": "Pearnel Charles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pearnel Charles"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://jamaica-gleaner.com/article/news/20190509/robert-nesta-morgan-get-senate-seat",
+          "title": "Robert Nesta Morgan To Get Senate Seat",
+          "website": "jamaica-gleaner.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "https://jamaica.loopnews.com/content/holness-announces-cabinet-changes-and-other-appointments"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "robertnestamorgan.com"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

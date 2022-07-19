@@ -1,0 +1,118 @@
+{
+  "title": "Homer Davis",
+  "pageID": 70339579,
+  "categories": [
+    "Living people",
+    "21st-century Jamaican politicians",
+    "Government ministers of Jamaica",
+    "People from Saint James Parish, Jamaica",
+    "Members of the House of Representatives of Jamaica",
+    "Jamaica Labour Party politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Homer Davis is a Jamaican Labour Party politician and Minister of State in the Ministry of Local Government and Rural Development.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Homer Davis"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "MP for Saint James Southern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint James Southern"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "7 September 2020",
+            "links": [
+              {
+                "text": "7 September 2020",
+                "type": "internal",
+                "page": "2020 Jamaican general election"
+              }
+            ]
+          },
+          "party": {
+            "text": "Jamaica Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Labour Party"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Derrick Kellier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Derrick Kellier"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Homer Davis – Office of the Prime Minister",
+          "url": "https://opm.gov.jm/cabinet_ministers/homer-davis/",
+          "access-date": "2022-03-18",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

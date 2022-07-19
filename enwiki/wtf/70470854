@@ -1,0 +1,88 @@
+{
+  "title": "Leslie Campbell (politician)",
+  "pageID": 70470854,
+  "categories": [
+    "Living people",
+    "21st-century Jamaican politicians",
+    "Members of the Senate of Jamaica",
+    "Jamaica Labour Party politicians",
+    "Government ministers of Jamaica",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leslie Campbell is a Jamaican politician from the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Leslie Campbell"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Senate of Jamaica and is Minister of State in the Ministry of Foreign Affairs and Foreign Trade in the Cabinet of Jamaica.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Jamaica"
+                },
+                {
+                  "text": "Ministry of Foreign Affairs and Foreign Trade",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs and Foreign Trade (Jamaica)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Jamaica"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Leslie Campbell Sworn Into Cabinet – Jamaica Information Service",
+          "url": "https://jis.gov.jm/leslie-campbell-sworn-into-cabinet/",
+          "access-date": "2022-04-05",
+          "website": "jis.gov.jm",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

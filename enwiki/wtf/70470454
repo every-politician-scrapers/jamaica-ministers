@@ -1,0 +1,106 @@
+{
+  "title": "Aubyn Hill",
+  "pageID": 70470454,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "21st-century Jamaican politicians",
+    "Members of the Senate of Jamaica",
+    "Jamaica Labour Party politicians",
+    "Harvard University alumni",
+    "Government ministers of Jamaica"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aubyn Hill is a Jamaican politician from the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Aubyn Hill"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Senate of Jamaica.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Jamaica"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "blp sources"
+        },
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2022",
+          "template": "cn"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was appointed Minister of Industry, Investment and Commerce in the Cabinet of Jamaica in January 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Jamaica"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2016-05-13",
+          "title": "Senator the Hon. Aubyn Hill",
+          "url": "https://www.miic.gov.jm/profile/senator-hon-aubyn-hill",
+          "access-date": "2022-04-05",
+          "website": "The Ministry of Industry, Investment and Commerce",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

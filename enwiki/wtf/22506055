@@ -1,0 +1,215 @@
+{
+  "title": "Delroy Chuck",
+  "pageID": 22506055,
+  "categories": [
+    "20th-century Jamaican lawyers",
+    "Jamaican journalists",
+    "Male journalists",
+    "Jamaican people of Chinese descent",
+    "Year of birth missing (living people)",
+    "Living people",
+    "People from Manchester Parish",
+    "Members of the House of Representatives of Jamaica",
+    "Speakers of the House of Representatives of Jamaica",
+    "Jamaica Labour Party politicians",
+    "Alumni of St Catherine's College, Oxford",
+    "Justice ministers of Jamaica"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Delroy Chuck is a Jamaican lawyer, journalist and politician.",
+              "links": [
+                {
+                  "text": "Jamaican",
+                  "type": "internal",
+                  "page": "Jamaica"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Delroy Chuck"
+                ]
+              }
+            },
+            {
+              "text": "He is currently (2016) the Member of Parliament (MP) for the constituency of Saint Andrew North Eastern and the Minister of Justice.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saint Andrew North Eastern"
+                }
+              ]
+            },
+            {
+              "text": "Chuck previously served as the Minister of Justice from 2011 to 2012 and as the Speaker of the House of Representatives from 2007 to 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Justice"
+                },
+                {
+                  "text": "Speaker of the House of Representatives",
+                  "type": "internal",
+                  "page": "List of Speakers of the House of Representatives of Jamaica"
+                }
+              ]
+            },
+            {
+              "text": "He joined the Jamaica Labour Party in 1995 and first contested St. Andrew North Eastern seat in 1997, an election in which he was victorious.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                },
+                {
+                  "text": "1997",
+                  "type": "internal",
+                  "page": "1997 Jamaican general election"
+                }
+              ]
+            },
+            {
+              "text": "He has held his seat ever since and won his fifth term in Parliament in 2016.",
+              "links": [
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Jamaican general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Delroy Chuck is of Hakka ancestry, Delroy Chuck's birthplace is Christiana in the parish of Manchester, but he grew up in Clarendon.",
+              "links": [
+                {
+                  "text": "parish of Manchester",
+                  "type": "internal",
+                  "page": "Manchester Parish"
+                },
+                {
+                  "text": "Clarendon",
+                  "type": "internal",
+                  "page": "Clarendon Parish, Jamaica"
+                }
+              ]
+            },
+            {
+              "text": "He attended Ritchies Primary School, Clarendon, from 1955 to 1962, where he was successful in his Common Entrance Examination."
+            },
+            {
+              "text": "He attended Kingston College from 1962 to 1969.",
+              "links": [
+                {
+                  "text": "Kingston College",
+                  "type": "internal",
+                  "page": "Kingston College, Jamaica"
+                }
+              ]
+            },
+            {
+              "text": "During his tenure at Kingston College, he served as deputy head boy, president of Interact Club and was an active member of the chess and lawn tennis clubs and represented his school in both sports."
+            },
+            {
+              "text": "He left Kingston College with five 'A' levels and a scholarship to University of the West Indies, where he earned a BSc (Hons) in special mathematics."
+            },
+            {
+              "text": "In 1972, Chuck was elected the 1973 Jamaica's Rhodes Scholar and attended St Catherine's College, Oxford, from 1973 to 1976, where he studied Law and graduated with a B.A. in jurisprudence and a Bachelor of Civil Law degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Catherine's College, Oxford"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican lawyer, journalist and politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2011",
+          "template": "one source"
+        },
+        {
+          "date": "July 2011",
+          "template": "blp primary sources"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "date": "March 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2012",
+          "template": "use jamaican english"
+        }
+      ],
+      "references": [
+        {
+          "title": "The Arrival of the Chinese",
+          "url": "http://jamaica-gleaner.com/pages/history/story0055.htm",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20141017173119/http://jamaica-gleaner.com/pages/history/story0055.htm",
+          "archivedate": "17 October 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "jamaica-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official site",
+            "links": [
+              {
+                "text": "Official site",
+                "type": "external",
+                "site": "https://web.archive.org/web/20090618063903/http://www.delchuck.com/the_politician.htm"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "title": "Marsha Smith",
+  "pageID": 70269899,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Jamaican women lawyers",
+    "21st-century Jamaican politicians",
+    "21st-century Jamaican women politicians",
+    "Members of the House of Representatives of Jamaica",
+    "Jamaica Labour Party politicians",
+    "People from Saint Ann Parish",
+    "21st-century Jamaican lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marsha Leonette Smith is a Jamaican attorney-at-law and Labour Party politician currently serving as Member of Parliament for Saint Ann North Eastern.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Jamaica Labour Party"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Jamaica"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Ann North Eastern"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marsha Leonette Smith"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jamaican politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "MP for Saint Ann North Eastern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Ann North Eastern"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "7 September 2020",
+            "links": [
+              {
+                "text": "7 September 2020",
+                "type": "internal",
+                "page": "2020 Jamaican general election"
+              }
+            ]
+          },
+          "party": {
+            "text": "Jamaica Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamaica Labour Party"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Shahine Robinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shahine Robinson"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Smith was elected in the 2020 general election.",
+              "links": [
+                {
+                  "text": "2020 general election",
+                  "type": "internal",
+                  "page": "2020 Jamaican general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2022, a number of her constituents protested calling for her resignation citing her perceived lack of presence in the community."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-02-03",
+          "title": "First Time MP Marsha Smith Facing Protests in North East St Ann",
+          "url": "https://nationwideradiojm.com/first-time-mp-marsha-smith-facing-protests-in-north-east-st-ann/",
+          "access-date": "2022-03-09",
+          "website": "Nationwide 90FM",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Her father Ernie Smith represented Saint Ann South Western from 2002 to 2011.",
+              "links": [
+                {
+                  "text": "Ernie Smith",
+                  "type": "internal",
+                  "page": "Ernie Smith (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Ann South Western"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-07-18",
+          "title": "Ernie Smith's daughter Marsha tipped to replace Shahine Robinson",
+          "url": "https://jamaica-gleaner.com/article/lead-stories/20200718/ernie-smiths-daughter-marsha-tipped-replace-shahine-robinson",
+          "access-date": "2022-03-09",
+          "website": "jamaica-gleaner.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
