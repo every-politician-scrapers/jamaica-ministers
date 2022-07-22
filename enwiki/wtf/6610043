@@ -42,6 +42,11 @@
                   "text": "Saint Andrew",
                   "type": "internal",
                   "page": "Saint Andrew Parish, Jamaica"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of parliament"
                 }
               ],
               "formatting": {
@@ -273,6 +278,17 @@
               "text": "When appointed, he was the youngest serving mayor in KSAC's history."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The continuing rise and rise of Desmond McKenzie",
+          "url": "https://www.jamaicaobserver.com/news/the-continuing-rise-and-rise-of-desmond-mckenzie/",
+          "access-date": "2022-07-21",
+          "website": "Jamaica Observer",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
