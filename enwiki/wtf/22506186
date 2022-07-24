@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Andrew Michael Holness \"Bro Gaad\", (born 22 July 1972) is a Jamaican politician who has been the Prime Minister of Jamaica since 3 March 2016, following the 2016 Jamaican general election.",
+              "text": "Andrew Michael Holness, (born 22 July 1972) is a Jamaican politician who has been the Prime Minister of Jamaica since 3 March 2016, following the 2016 Jamaican general election.",
               "links": [
                 {
                   "type": "internal",
@@ -36,7 +36,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Andrew Michael Holness \"Bro Gaad\""
+                  "Andrew Michael Holness"
                 ]
               }
             },
