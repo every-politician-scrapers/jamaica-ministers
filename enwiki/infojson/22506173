@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "Manchester North Eastern (Jamaica Parliament constituency)"
+      ],
+      "stated_as": "MP for Manchester North Eastern"
+    },
+    "P580": "1993"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance and the Public Service"
+      ],
+      "stated_as": "Minister of Finance, Planning and the Public Service"
+    },
+    "P580": "2007-09-11",
+    "P1365": {
+      "links": [
+        "Omar Davies"
+      ],
+      "stated_as": "Dr. Omar Davies"
+    },
+    "P582": "2012-01-05",
+    "P1366": {
+      "links": [
+        "Peter Phillips (Jamaican politician)"
+      ],
+      "stated_as": "Dr. Peter Phillips"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministries and Agencies of the Jamaican Government"
+      ],
+      "stated_as": "Shadow Minister of Finance, Planning and the Public Service"
+    },
+    "P580": "2012-09-19",
+    "P1365": {
+      "links": [
+        "Omar Davies"
+      ],
+      "stated_as": "Omar Davies"
+    },
+    "P582": "2016-03-07",
+    "P1366": {
+      "links": [
+        "Peter Phillips (Jamaican politician)"
+      ],
+      "stated_as": "Peter Phillips"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance and the Public Service"
+      ],
+      "stated_as": "Minister of Finance, Planning and the Public Service"
+    },
+    "P580": "2016-03-07",
+    "P1365": {
+      "links": [
+        "Peter Phillips (Jamaican politician)"
+      ],
+      "stated_as": "Dr. Peter Phillips"
+    },
+    "P582": "2018-03-26"
+  }
+]

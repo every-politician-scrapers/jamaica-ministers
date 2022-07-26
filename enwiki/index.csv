@@ -1,34 +1,34 @@
-pageid,title
-6610043,Desmond McKenzie
-6756205,Juliet Cuthbert
-13380293,Horace Chang
-21096679,Patrick Allen (governor-general)
-22506055,Delroy Chuck
-22506173,Audley Shaw
-22506186,Andrew Holness
-22506198,Karl Samuda
-22506201,Edmund Bartlett
-22506208,Christopher Tufton
-22506244,Daryl Vaz
-22506249,Olivia Grange
-36707179,Robert Montague (Jamaican politician)
-38572828,Everald Warmington
-41755726,Marlene Malahoo Forte
-42662677,Tom Tavares-Finson
-49582227,Fayval Williams
-52512617,Kamina Johnson Smith
-52587494,Pearnel Patroe Charles Jr.
-56825414,Nigel A. L. Clarke
-60214190,Bryan Sykes (judge)
-60738576,Robert Nesta Morgan
-63194253,Norman Alexander Dunn
-65349794,Marisa Dalrymple-Philibert
-69733917,Derrick McKoy
-69865181,Antonette Wemyss Gorman
-70269826,Zavia Mayne
-70269899,Marsha Smith
-70303946,Alando Terrelonge
-70338404,William J.C. Hutchinson
-70339579,Homer Davis
-70470454,Aubyn Hill
-70470854,Leslie Campbell (politician)
+pageid,title,wikidata,label
+6610043,Desmond McKenzie,Q5264765,Desmond McKenzie
+6756205,Juliet Cuthbert,Q254503,Juliet Cuthbert
+13380293,Horace Chang,Q1627852,Horace Chang
+21096679,Patrick Allen (governor-general),Q109147,Patrick Allen
+22506055,Delroy Chuck,Q1184742,Delroy Chuck
+22506173,Audley Shaw,Q758950,Audley Shaw
+22506186,Andrew Holness,Q505200,Andrew Holness
+22506198,Karl Samuda,Q1732780,Karl Samuda
+22506201,Edmund Bartlett,Q1285979,Edmund Bartlett
+22506208,Christopher Tufton,Q1087022,Christopher Tufton
+22506244,Daryl Vaz,Q1167006,Daryl Vaz
+22506249,Olivia Grange,Q1247437,Olivia Grange
+36707179,Robert Montague (Jamaican politician),Q1640128,Robert Montague
+38572828,Everald Warmington,Q5416886,Everald Warmington
+41755726,Marlene Malahoo Forte,Q16499741,Marlene Malahoo Forte
+42662677,Tom Tavares-Finson,Q16751168,Tom Tavares-Finson
+49582227,Fayval Williams,Q23304549,Fayval Williams
+52512617,Kamina Johnson Smith,Q28225536,Kamina Johnson-Smith
+52587494,Pearnel Patroe Charles Jr.,Q28837290,Pearnel Patroe Charles Jr.
+56825414,Nigel A. L. Clarke,Q50874870,Nigel A. L. Clarke
+60214190,Bryan Sykes (judge),Q62036276,Bryan Sykes
+60738576,Robert Nesta Morgan,Q64009690,Robert Nesta Morgan
+63194253,Norman Alexander Dunn,Q86753513,Norman Alexander Dunn
+65349794,Marisa Dalrymple-Philibert,Q99478706,Marisa Dalrymple-Philibert
+69733917,Derrick McKoy,Q110527704,Derrick McKoy
+69865181,Antonette Wemyss Gorman,Q110663428,Antonette Wemyss Gorman
+70269826,Zavia Mayne,Q110543640,Zavia Mayne
+70269899,Marsha Smith,Q111425758,Marsha Smith
+70303946,Alando Terrelonge,Q111226206,Alando Terrelonge
+70338404,William J.C. Hutchinson,Q111333694,William J.C. Hutchinson
+70339579,Homer Davis,Q110543645,Homer Davis
+70470454,Aubyn Hill,Q109928856,Aubyn Hill
+70470854,Leslie Campbell (politician),Q111912069,Leslie Campbell

@@ -1,0 +1,80 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament for St Andrew Eastern"
+    },
+    "P580": "2016-02-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Andre Hylton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "State Minister in the Ministry of Finance and the Public Service"
+    },
+    "P580": "2016-03-07",
+    "P582": "2018-03-26"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Without Portfolio in the Ministry of Finance and the Public Service"
+    },
+    "P580": "2018-03-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Horace Dalley"
+    },
+    "P582": "2019-02-13"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Science, Energy and Technology"
+    },
+    "P580": "2019-02-14",
+    "P1365": {
+      "links": [
+        "Andrew Holness"
+      ],
+      "stated_as": "Andrew Holness"
+    },
+    "P582": "2020-09-12",
+    "P1366": {
+      "links": [
+        "Daryl Vaz"
+      ],
+      "stated_as": "Daryl Vaz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education, Youth and Information"
+    },
+    "P580": "2020-09-13",
+    "P1365": {
+      "links": [
+        "Karl Samuda"
+      ],
+      "stated_as": "Karl Samuda"
+    }
+  }
+]

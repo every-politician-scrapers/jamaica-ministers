@@ -1,0 +1,59 @@
+[
+  {
+    "office": {
+      "links": [
+        "Jamaica Parliament",
+        "Hanover Western"
+      ],
+      "stated_as": "Member of the Jamaica Parliament for Hanover Western"
+    },
+    "P580": "1980",
+    "P1365": {
+      "links": [
+        "Roy Robinson"
+      ],
+      "stated_as": "Roy Robinson"
+    },
+    "P582": "1989",
+    "P1366": {
+      "links": [
+        "Benjamin Clare"
+      ],
+      "stated_as": "Benjamin Clare"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Jamaica Parliament",
+        "Saint James North Western"
+      ],
+      "stated_as": "Member of the Jamaica Parliament for Saint James North Western"
+    },
+    "P580": "2002"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Security (Jamaica)"
+      ],
+      "stated_as": "Minister of National Security of Jamaica"
+    },
+    "P580": "2018-03",
+    "P1365": {
+      "links": [
+        "Francis Tulloch"
+      ],
+      "stated_as": "Francis Tulloch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Prime Minister of Jamaica"
+    },
+    "P580": "2020-09"
+  }
+]
