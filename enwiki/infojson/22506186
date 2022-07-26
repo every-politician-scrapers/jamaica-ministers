@@ -1,0 +1,98 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2007-09-11",
+    "P1365": {
+      "links": [
+        "Maxine Henry-Wilson"
+      ],
+      "stated_as": "Maxine Henry-Wilson"
+    },
+    "P582": "2012-01-01",
+    "P1366": {
+      "links": [
+        "Ronald Thwaites"
+      ],
+      "stated_as": "Ronald Thwaites"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Jamaica"
+      ],
+      "stated_as": "9th Prime Minister of Jamaica"
+    },
+    "P580": "2011-10-23",
+    "P1365": {
+      "links": [
+        "Bruce Golding"
+      ],
+      "stated_as": "Bruce Golding"
+    },
+    "P582": "2012-01-05",
+    "P1366": {
+      "links": [
+        "Portia Simpson-Miller"
+      ],
+      "stated_as": "Portia Simpson-Miller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Jamaica Labour Party"
+      ],
+      "stated_as": "Leader of the Jamaica Labour Party"
+    },
+    "P580": "2011-11-20",
+    "P1365": {
+      "links": [
+        "Bruce Golding"
+      ],
+      "stated_as": "Bruce Golding"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Jamaica)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2012-01-05",
+    "P1365": {
+      "links": [
+        "Portia Simpson-Miller"
+      ],
+      "stated_as": "Portia Simpson-Miller"
+    },
+    "P582": "2016-03-03",
+    "P1366": {
+      "links": [
+        "Portia Simpson-Miller"
+      ],
+      "stated_as": "Portia Simpson-Miller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Jamaica"
+      ],
+      "stated_as": "9th Prime Minister of Jamaica"
+    },
+    "P580": "2016-03-03",
+    "P1365": {
+      "links": [
+        "Portia Simpson-Miller"
+      ],
+      "stated_as": "Portia Simpson-Miller"
+    }
+  }
+]

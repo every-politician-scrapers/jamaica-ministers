@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the House of Representatives"
+    },
+    "P580": "2011-07-13",
+    "P1365": {
+      "links": [
+        "Delroy Chuck"
+      ],
+      "stated_as": "Delroy Chuck"
+    },
+    "P582": "2011-12-12",
+    "P1366": {
+      "links": [
+        "Michael Peart (politician)"
+      ],
+      "stated_as": "Michael Peart"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the House of Representatives"
+    },
+    "P580": "2020-09-15",
+    "P1365": {
+      "links": [
+        "Pearnel Charles"
+      ],
+      "stated_as": "Pearnel Charles"
+    }
+  }
+]
